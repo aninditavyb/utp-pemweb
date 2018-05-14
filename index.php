@@ -35,13 +35,13 @@
 											</ul>
 									</li>
 									<li>
-										<a href="#">Kategori Barang</a>
+										<a href="kategori.html">Kategori Barang</a>
 									</li>	
 									<li>
 										<a href="./?pages=konfirmasi">Konfirmasi</a>
 									</li>			
 									<li>
-										<a href="#">Tentang Kami</a>
+										<a href="tentang.html">Tentang Kami</a>
 									</li>
 								</ul>
 							</div>
